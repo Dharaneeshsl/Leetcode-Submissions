@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 ## Array
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0051-n-queens) |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
@@ -74,4 +76,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
