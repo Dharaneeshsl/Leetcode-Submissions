@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0051-n-queens) |
+| [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 ## Greedy
@@ -224,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
