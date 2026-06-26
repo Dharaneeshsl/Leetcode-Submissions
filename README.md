@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0191-number-of-1-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
