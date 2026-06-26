@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
+| [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
