@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
+| [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 ## Tree
 |  |
