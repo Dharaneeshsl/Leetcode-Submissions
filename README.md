@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0051-n-queens) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0191-number-of-1-bits) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
