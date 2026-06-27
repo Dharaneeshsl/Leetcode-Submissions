@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
