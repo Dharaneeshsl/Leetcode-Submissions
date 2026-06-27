@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0853-car-fleet) |
 | [1046-last-stone-weight](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1539-kth-missing-positive-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
