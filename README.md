@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0382-linked-list-random-node](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0382-linked-list-random-node) |
 | [0707-design-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0707-design-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0191-number-of-1-bits) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 ## Sweep Line
 |  |
