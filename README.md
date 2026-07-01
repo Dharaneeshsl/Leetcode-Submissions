@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1539-kth-missing-positive-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0382-linked-list-random-node) |
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
 ## Design
 |  |
