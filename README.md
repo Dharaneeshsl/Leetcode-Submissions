@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0818-race-car](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0818-race-car) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
 | [1668-maximum-repeating-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1668-maximum-repeating-substring) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Prefix Sum
 |  |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
