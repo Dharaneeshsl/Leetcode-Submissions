@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0382-linked-list-random-node) |
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2578-split-with-minimum-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2578-split-with-minimum-sum) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
