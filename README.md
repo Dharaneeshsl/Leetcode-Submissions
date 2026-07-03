@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2404-most-frequent-even-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2404-most-frequent-even-element) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0868-binary-gap](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1310-xor-queries-of-a-subarray) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Math
