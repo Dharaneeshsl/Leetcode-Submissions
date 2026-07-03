@@ -7,6 +7,7 @@ class Solution:
             dp[w]=1
             for i in range(len(w)):
                 p=w[:i]+w[i+1:]
-                dp[w]=max(dp[w],dp.get(p,0)+1)
+                if p in dp:
+                    dp[w]=max(dp[w],dp.get(p)+1)
             ans=max(ans,dp[w])
         return ans
