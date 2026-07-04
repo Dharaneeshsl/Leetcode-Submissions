@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1046-last-stone-weight](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
+| [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1310-xor-queries-of-a-subarray) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
+| [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2103-rings-and-rods](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2103-rings-and-rods) |
@@ -411,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0707-design-linked-list) |
 | [0981-time-based-key-value-store](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Trie
 |  |
