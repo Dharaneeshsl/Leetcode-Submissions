@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2578-split-with-minimum-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2578-split-with-minimum-sum) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Design
 |  |
 | ------- |
@@ -468,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-employees-with-missing-information](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3436-find-valid-emails](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3436-find-valid-emails) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
