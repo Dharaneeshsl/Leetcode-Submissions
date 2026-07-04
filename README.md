@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0508-most-frequent-subtree-sum) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0707-design-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0707-design-linked-list) |
 ## Trie
 |  |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [1392-longest-happy-prefix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1392-longest-happy-prefix) |
 ## Ordered Set
 |  |
