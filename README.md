@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0853-car-fleet](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0853-car-fleet) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0460-lfu-cache](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
@@ -526,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
