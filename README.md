@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1901-find-a-peak-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [1901-find-a-peak-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
+| [1901-find-a-peak-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1901-find-a-peak-element-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
 |  |
