@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1392-longest-happy-prefix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1668-maximum-repeating-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1668-maximum-repeating-substring) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [1392-longest-happy-prefix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1392-longest-happy-prefix) |
 | [1668-maximum-repeating-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1668-maximum-repeating-substring) |
 ## Shortest Path
 |  |
@@ -420,4 +422,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
