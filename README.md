@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0382-linked-list-random-node) |
 | [0460-lfu-cache](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 | [0622-design-circular-queue](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0707-design-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Recursion
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
+| [0641-design-circular-deque](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sliding Window
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0707-design-linked-list) |
 ## Trie
 |  |
