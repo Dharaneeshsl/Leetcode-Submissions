@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0707-design-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1797-design-authentication-manager) |
 ## Recursion
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1797-design-authentication-manager](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1797-design-authentication-manager) |
 | [2103-rings-and-rods](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2103-rings-and-rods) |
 | [2404-most-frequent-even-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2404-most-frequent-even-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1797-design-authentication-manager) |
 ## Trie
 |  |
 | ------- |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0460-lfu-cache](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1797-design-authentication-manager) |
 ## Data Stream
 |  |
 | ------- |
