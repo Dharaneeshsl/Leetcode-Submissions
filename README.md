@@ -454,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1587-bank-account-summary-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1587-bank-account-summary-ii) |
 | [1890-the-latest-login-in-2020](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1890-the-latest-login-in-2020) |
 | [1965-employees-with-missing-information](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1965-employees-with-missing-information) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
