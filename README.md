@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 ## Stack
 |  |
 | ------- |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1392-longest-happy-prefix) |
 | [1668-maximum-repeating-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1668-maximum-repeating-substring) |
+| [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 ## Shortest Path
 |  |
 | ------- |
