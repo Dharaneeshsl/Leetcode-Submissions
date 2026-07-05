@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0818-race-car](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0818-race-car) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0956-tallest-billboard) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 | [0853-car-fleet](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0853-car-fleet) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 | [0981-time-based-key-value-store](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -497,12 +501,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1392-longest-happy-prefix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1392-longest-happy-prefix) |
 ## Ordered Set
 |  |
