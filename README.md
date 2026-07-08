@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2103-rings-and-rods) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
 |  |
 | ------- |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [2578-split-with-minimum-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2578-split-with-minimum-sum) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Design
 |  |
