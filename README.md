@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
 | [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2578-split-with-minimum-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2578-split-with-minimum-sum) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -578,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Doubly-Linked List
 |  |
