@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3477-fruits-into-baskets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3620-network-recovery-pathways) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3477-fruits-into-baskets-ii) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3620-network-recovery-pathways) |
 ## Sorting
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2103-rings-and-rods) |
 | [2404-most-frequent-even-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2404-most-frequent-even-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
 |  |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
