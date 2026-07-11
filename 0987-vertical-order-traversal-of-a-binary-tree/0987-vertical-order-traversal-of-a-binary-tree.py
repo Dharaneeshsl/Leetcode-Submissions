@@ -10,13 +10,18 @@ class Solution:
         arr=[]
         def dfs(node,row,col):
             if not node:
-                return
-            arr.append((col,row,node.val))
+                return None
+            arr.append([col,row,node.val])
             dfs(node.left,row+1,col-1)
             dfs(node.right,row+1,col+1)
+    
         dfs(root,0,0)
         arr.sort()
+
         d=defaultdict(list)
         for col,row,val in arr:
             d[col].append(val)
+        
+
+
         return list(d.values())
