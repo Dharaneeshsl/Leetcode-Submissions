@@ -568,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1251-average-selling-price) |
+| [1280-students-and-examinations](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1280-students-and-examinations) |
 | [1587-bank-account-summary-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1667-fix-names-in-a-table) |
