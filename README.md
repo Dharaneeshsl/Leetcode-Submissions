@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1179-reformat-department-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1179-reformat-department-table) |
+| [1211-queries-quality-and-percentage](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1211-queries-quality-and-percentage) |
 | [1587-bank-account-summary-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1667-fix-names-in-a-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1667-fix-names-in-a-table) |
