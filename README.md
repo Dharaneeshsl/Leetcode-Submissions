@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
+| [0238-product-of-array-except-self](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0312-burst-balloons](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0313-super-ugly-number) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1310-xor-queries-of-a-subarray) |
