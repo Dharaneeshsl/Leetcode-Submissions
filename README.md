@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0459-repeated-substring-pattern) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0460-lfu-cache](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0460-lfu-cache) |
 | [0480-sliding-window-median](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0480-sliding-window-median) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0480-sliding-window-median) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
