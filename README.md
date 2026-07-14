@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
