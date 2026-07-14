@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0139-word-break) |
 | [0312-burst-balloons](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0312-burst-balloons) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0120-triangle](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0137-single-number-ii) |
