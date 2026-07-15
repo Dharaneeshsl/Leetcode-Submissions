@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0956-tallest-billboard) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1668-maximum-repeating-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1331-rank-transform-of-an-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1331-rank-transform-of-an-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
