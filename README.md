@@ -403,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1302-deepest-leaves-sum) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1302-deepest-leaves-sum) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1302-deepest-leaves-sum) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Segment Tree
 |  |
 | ------- |
