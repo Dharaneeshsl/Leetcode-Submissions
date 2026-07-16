@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0956-tallest-billboard](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0956-tallest-billboard) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1668-maximum-repeating-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1668-maximum-repeating-substring) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Monotonic Queue
 |  |
 | ------- |
