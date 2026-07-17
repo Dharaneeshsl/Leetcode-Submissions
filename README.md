@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3620-network-recovery-pathways) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3477-fruits-into-baskets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3620-network-recovery-pathways) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2103-rings-and-rods](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2103-rings-and-rods) |
 | [2404-most-frequent-even-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2404-most-frequent-even-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Matrix
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1310-xor-queries-of-a-subarray) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
@@ -531,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
 | [2578-split-with-minimum-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2578-split-with-minimum-sum) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -597,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [2404-most-frequent-even-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2404-most-frequent-even-element) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## String Matching
 |  |
 | ------- |
@@ -668,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 ## Doubly-Linked List
@@ -684,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
