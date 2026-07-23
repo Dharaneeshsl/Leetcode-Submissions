@@ -531,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0313-super-ugly-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0382-linked-list-random-node) |
