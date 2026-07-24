@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0191-number-of-1-bits) |
 | [0761-special-binary-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0761-special-binary-string) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
