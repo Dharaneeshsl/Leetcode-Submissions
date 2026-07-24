@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0120-triangle](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0128-longest-consecutive-sequence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0443-string-compression) |
