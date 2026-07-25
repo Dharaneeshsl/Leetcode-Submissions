@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
 | [0818-race-car](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0818-race-car) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0641-design-circular-deque](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0641-design-circular-deque) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
