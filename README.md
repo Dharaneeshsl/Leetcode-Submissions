@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0480-sliding-window-median](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0410-split-array-largest-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
