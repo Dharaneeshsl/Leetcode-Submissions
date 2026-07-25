@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1797-design-authentication-manager](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1797-design-authentication-manager) |
 | [2103-rings-and-rods](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2103-rings-and-rods) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2404-most-frequent-even-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2404-most-frequent-even-element) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1268-search-suggestions-system) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2542-maximum-subsequence-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1797-design-authentication-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
 |  |
 | ------- |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [2336-smallest-number-in-infinite-set](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3477-fruits-into-baskets-ii) |
 ## Database
 |  |
