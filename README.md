@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2404-most-frequent-even-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2404-most-frequent-even-element) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2542-maximum-subsequence-score) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
 | [1268-search-suggestions-system](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1268-search-suggestions-system) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2542-maximum-subsequence-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3620-network-recovery-pathways) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -426,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3477-fruits-into-baskets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
