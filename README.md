@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0151-reverse-words-in-a-string) |
