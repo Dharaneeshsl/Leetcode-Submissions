@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0761-special-binary-string) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
 | [0981-time-based-key-value-store](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
+| [1002-find-common-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1002-find-common-characters) |
 | [1023-camelcase-matching](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
 | [1268-search-suggestions-system](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1268-search-suggestions-system) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0956-tallest-billboard](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0956-tallest-billboard) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1002-find-common-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1023-camelcase-matching](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1023-camelcase-matching) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1002-find-common-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1002-find-common-characters) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
 | [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
