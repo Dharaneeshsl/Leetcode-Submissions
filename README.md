@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0761-special-binary-string) |
+| [0804-unique-morse-code-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
 | [0981-time-based-key-value-store](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
 | [1002-find-common-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1002-find-common-characters) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
+| [0804-unique-morse-code-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
 | [0853-car-fleet](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0853-car-fleet) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
+| [0804-unique-morse-code-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0981-time-based-key-value-store](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0981-time-based-key-value-store) |
