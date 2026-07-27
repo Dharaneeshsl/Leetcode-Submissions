@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0173-binary-search-tree-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0853-car-fleet](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0853-car-fleet) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 | [0437-path-sum-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0437-path-sum-iii) |
 | [0508-most-frequent-subtree-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0508-most-frequent-subtree-sum) |
@@ -630,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0099-recover-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0099-recover-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Sweep Line
@@ -788,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0341-flatten-nested-list-iterator) |
 ## Combinatorics
 |  |
