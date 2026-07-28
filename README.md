@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0480-sliding-window-median](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0480-sliding-window-median) |
 | [0493-reverse-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
+| [0506-relative-ranks](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0354-russian-doll-envelopes](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0761-special-binary-string) |
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0480-sliding-window-median](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0480-sliding-window-median) |
+| [0506-relative-ranks](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
