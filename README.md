@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0622-design-circular-queue) |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0630-course-schedule-iii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0630-course-schedule-iii) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0761-special-binary-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0761-special-binary-string) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0508-most-frequent-subtree-sum) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0560-subarray-sum-equals-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
 | [0804-unique-morse-code-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0804-unique-morse-code-words) |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0480-sliding-window-median](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0480-sliding-window-median) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -729,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
