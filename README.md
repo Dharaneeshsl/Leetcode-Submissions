@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0956-tallest-billboard](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0956-tallest-billboard) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
+| [0999-available-captures-for-rook](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0661-image-smoother](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0661-image-smoother) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
+| [0999-available-captures-for-rook](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1901-find-a-peak-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -483,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
+| [0999-available-captures-for-rook](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
