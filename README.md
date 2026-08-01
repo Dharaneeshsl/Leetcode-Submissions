@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0486-predict-the-winner](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0480-sliding-window-median) |
+| [0486-predict-the-winner](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0382-linked-list-random-node](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0382-linked-list-random-node) |
+| [0486-predict-the-winner](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0633-sum-of-square-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -852,4 +856,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0561-array-partition) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
