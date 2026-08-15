@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0686-repeated-string-match](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
+| [0748-shortest-completing-word](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0748-shortest-completing-word) |
 | [0761-special-binary-string](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0761-special-binary-string) |
 | [0804-unique-morse-code-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0740-delete-and-earn](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0748-shortest-completing-word](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0748-shortest-completing-word) |
 | [0778-swim-in-rising-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0778-swim-in-rising-water) |
 | [0804-unique-morse-code-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0692-top-k-frequent-words) |
 | [0740-delete-and-earn](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0740-delete-and-earn) |
+| [0748-shortest-completing-word](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0804-unique-morse-code-words) |
 | [0811-subdomain-visit-count](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0811-subdomain-visit-count) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
