@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 ## String
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0392-is-subsequence) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0120-triangle) |
 | [0132-palindrome-partitioning-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0312-burst-balloons](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0313-super-ugly-number) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0139-word-break) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bit Manipulation
 |  |
@@ -677,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0282-expression-add-operators](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
@@ -877,4 +882,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
