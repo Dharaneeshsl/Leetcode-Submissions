@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0076-minimum-window-substring) |
@@ -666,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0012-integer-to-roman) |
 | [0282-expression-add-operators](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
