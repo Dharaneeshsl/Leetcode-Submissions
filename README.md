@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0064-minimum-path-sum) |
 | [0212-word-search-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0212-word-search-ii) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0068-text-justification) |
 | [0999-available-captures-for-rook](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1910-remove-all-occurrences-of-a-substring) |
