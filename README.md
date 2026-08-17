@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0907-sum-of-subarray-minimums) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0956-tallest-billboard](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0956-tallest-billboard) |
+| [1014-best-sightseeing-pair](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1014-best-sightseeing-pair) |
 | [1048-longest-string-chain](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1048-longest-string-chain) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-available-captures-for-rook](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1002-find-common-characters) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1014-best-sightseeing-pair](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1014-best-sightseeing-pair) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1023-camelcase-matching](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1023-camelcase-matching) |
 | [1046-last-stone-weight](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1046-last-stone-weight) |
