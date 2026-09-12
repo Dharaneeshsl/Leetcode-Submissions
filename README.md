@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1656-design-an-ordered-stream](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1656-design-an-ordered-stream) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1764-form-array-by-concatenating-subarrays-of-another-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1764-form-array-by-concatenating-subarrays-of-another-array) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1656-design-an-ordered-stream](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1656-design-an-ordered-stream) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1742-maximum-number-of-balls-in-a-box) |
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1146-snapshot-array) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
+| [1656-design-an-ordered-stream](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1656-design-an-ordered-stream) |
 | [1797-design-authentication-manager](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1797-design-authentication-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2336-smallest-number-in-infinite-set) |
 ## Trie
@@ -883,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1472-design-browser-history) |
+| [1656-design-an-ordered-stream](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1656-design-an-ordered-stream) |
 ## Iterator
 |  |
 | ------- |
