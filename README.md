@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1797-design-authentication-manager](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1797-design-authentication-manager) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2103-rings-and-rods](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2103-rings-and-rods) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1250-check-if-it-is-a-good-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2578-split-with-minimum-sum](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2578-split-with-minimum-sum) |
 | [3101-count-alternating-subarrays](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3101-count-alternating-subarrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1079-letter-tile-possibilities](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1079-letter-tile-possibilities) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1657-determine-if-two-strings-are-close) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2404-most-frequent-even-element](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2404-most-frequent-even-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
