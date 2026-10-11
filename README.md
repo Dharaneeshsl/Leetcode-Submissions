@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3842-toggle-light-bulbs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Backtracking
 |  |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3842-toggle-light-bulbs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3842-toggle-light-bulbs) |
 ## Matrix
 |  |
 | ------- |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3477-fruits-into-baskets-ii) |
+| [3842-toggle-light-bulbs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
