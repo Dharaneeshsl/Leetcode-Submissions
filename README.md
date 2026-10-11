@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0486-predict-the-winner](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
 | ------- |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3477-fruits-into-baskets-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3620-network-recovery-pathways) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3731-find-missing-elements) |
@@ -780,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Dharaneeshsl/Leetcode-Submissions/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Reservoir Sampling
 |  |
